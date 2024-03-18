@@ -1,0 +1,62 @@
+      {
+        id: 1,
+        name: "Tekken 8",
+        genre: "Fighting Game",
+        isBased: true,
+        goodArt: true
+      },
+      {
+        id: 2,
+        name: "Street Fighter 6",
+        genre: "Fighting Game",
+        isBased: true,
+        goodArt: true
+    
+      },
+      {
+        id: 3,
+        name: "Devil May Cry 3",
+        genre: "Hack and Slasher",
+        isBased: true,
+        goodArt: true
+     
+      },
+      {
+        id: 4,
+        name: "Prince Of Persia: Warrior Within",
+        genre: "Hack and Slasher",
+        isBased: false,
+        goodArt: true
+     
+      },
+      {
+        id: 5,
+        name: "Yakuza 8",
+        genre: "Turn Based RPG",
+        isBased: true,
+        goodArt: true
+     
+      },
+      {
+        id: 6,
+        name: "Gran Turismo 5",
+        genre: "Racing Game",
+        isBased: false,
+        goodArt: false
+     
+      },
+      {
+        id: 7,
+        name: "Prototype",
+        genre: "Open World Game",
+        isBased: false,
+        goodArt: false
+     
+      },
+      {
+         id: 8,
+         name: "Undertale",
+         genre: "Turn Based RPG",
+         isBased: true,
+         goodArt: true
+    }
